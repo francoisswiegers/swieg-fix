@@ -1,2 +1,5 @@
 .stack-work/
+.idea
+stack.yaml.lock
+swieg-fix.iml
 *~
